@@ -1,0 +1,11 @@
+.y.,group1,group2,n1,n2,statistic,p,p.adj,p.adj.signif
+Value,scanskillsp1,scanskillsp2,16,16,69.5,0.609,1,ns
+Value,scanskillsp1,scanskillsp3,16,16,81,0.243,0.972,ns
+Value,scanskillsp1,scanskillsexam,16,16,2.5,0.001,0.011,*
+Value,scanskillsp1,diagskillsexam,16,16,1,8.75e-4,0.009,**
+Value,scanskillsp2,scanskillsp3,16,16,67,0.712,1,ns
+Value,scanskillsp2,scanskillsexam,16,16,6,0.004,0.023,*
+Value,scanskillsp2,diagskillsexam,16,16,19,0.012,0.06,ns
+Value,scanskillsp3,scanskillsexam,16,16,3.5,0.002,0.017,*
+Value,scanskillsp3,diagskillsexam,16,16,3,0.002,0.017,*
+Value,scanskillsexam,diagskillsexam,16,16,19,0.721,1,ns
